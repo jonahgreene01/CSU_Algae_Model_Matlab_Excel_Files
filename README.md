@@ -6,4 +6,7 @@ This repository contains all the necessary Matlab and Excel files used to run th
 3) The model's User Interface which operates in Microsoft Excel ("CSU_Algae_Model_User_Interface.xlsm")
 4) The Excel file used to transfer results between Matlab and Excel ("Growth_Model_Outputs.xlsx")
 
+Contents of this folder are to be downloaded and extracted to the following file path: 
+C:\CSU_Open_Source_Algae_Model\Model_Files
+
 
